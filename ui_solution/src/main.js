@@ -1,0 +1,3 @@
+$(function() {
+  UserInterface.setup(Romanizer);
+});

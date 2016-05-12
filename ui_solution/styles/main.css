@@ -1,0 +1,48 @@
+body {
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+  background: black;
+  color: lime;
+  margin: 0;
+  padding: 3em;
+}
+
+main {
+  width: 70%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 1em;
+}
+
+input {
+  margin: 0 auto 1em;
+  text-align: center;
+  background-color: black;
+  border-color: lime;
+  color: lime;
+  font-size: 3em;
+  padding: 0 20px;
+}
+
+button {
+  display: block;
+  background: lime;
+  color: black;
+  border: none;
+  padding: 10px 15px;
+  font-size: 1.2em;
+  font-family: monospace;
+  font-weight: bold;
+  margin: 0 auto 1em;
+}
+
+button:active {
+  background: green;
+}
+
+.result {
+  font-size: 3em;
+}
